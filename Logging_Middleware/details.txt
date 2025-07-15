@@ -1,0 +1,12 @@
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiYXVkIjoiaHR0cDovLzIwLjI0NC41Ni4xNDQvZXZhbHVhdGlvbi1zZXJ2aWNlIiwiZW1haWwiOiJhcnlhbjIyMTByYWpAZ21haWwuY29tIiwiZXhwIjoxNzUyNTU5ODQwLCJpYXQiOjE3NTI1NTg5NDAsImlzcyI6IkFmZm9yZCBNZWRpY2FsIFRlY2hub2xvZ2llcyBQcml2YXRlIExpbWl0ZWQiLCJqdGkiOiIxNjEwNTgxZC1iODViLTQzNmQtYmRiMC1lYWFjNjM4Y2FhMjIiLCJsb2NhbGUiOiJlbi1JTiIsIm5hbWUiOiJhcnlhbiByYWoiLCJzdWIiOiI0Yzc3ODhkNy01NDg0LTQ0YjQtOGI0MC1lZWE5NjM5YTI2NjgifSwiZW1haWwiOiJhcnlhbjIyMTByYWpAZ21haWwuY29tIiwibmFtZSI6ImFyeWFuIHJhaiIsInJvbGxObyI6IjIyMTg0ODgiLCJhY2Nlc3NDb2RlIjoiUUFoRFVyIiwiY2xpZW50SUQiOiI0Yzc3ODhkNy01NDg0LTQ0YjQtOGI0MC1lZWE5NjM5YTI2NjgiLCJjbGllbnRTZWNyZXQiOiJFaEFuQlRETXdQcGVNZmNuIn0.-WMWJzivvTKAOj64KgnPtSmkA-WC2Qc_Lx1wegF35Go",
+    "expires_in": 1752559840
+}
+
+
+
+Log created: {
+  logID: '9c3d4952-2a06-44b7-84b9-103e6a6f3dd8',
+  message: 'log created successfully'
+}
